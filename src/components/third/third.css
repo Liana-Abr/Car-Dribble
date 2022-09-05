@@ -1,0 +1,61 @@
+.third-block{
+    float: left;
+    width: 280px;
+    margin: 10px;
+    height: 500px;
+    background-color: #1D1D1D;
+    border-radius: 7px;
+}
+.block-text{
+    font-size: 10px;
+    float: left;
+    display: flex;
+    margin-left: 5px;
+}
+.main{
+    font-size: 10px;
+    margin-top: 44px;
+    text-align: center;
+
+}
+.drive{
+    font-weight: bold;
+    font-size: 20px;
+}
+.sub-drive{
+    margin-top: -15px;
+    color: #BABABA;
+}
+.tesla-img{
+    width: 250px;
+    margin-top: 70px;
+}
+.hr-line {
+    margin: 30px 0 0 -1px;
+    border: none;
+    border-top: 1px solid #333;
+}
+.prnds{
+    letter-spacing: 1px;
+    margin-left: 147px;
+    color: #B6B6B6;
+}
+.third-block-span{
+    color: white;
+    font-weight: bold;
+    margin: 1px;
+}
+.open-btn{
+    background-color:#383838 ;
+    border-radius: 10px;
+    border: none;
+    color: white;
+
+}
+.icon-panel{
+    color: #909090;
+    width: 25px;
+    height: 25px;
+    margin: 15px;
+}
+

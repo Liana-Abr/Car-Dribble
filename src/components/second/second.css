@@ -1,0 +1,22 @@
+.second-block{
+    float: left;
+    width: 280px;
+    margin: 10px;
+    height: 500px;
+    background-color: #1D1D1D;
+    border-radius: 7px;
+}
+.second-block-text{
+    color: #BABABA;
+    font-size: 10px;
+}
+.second-block-span{
+    font-weight: bold;
+    color: white;
+    margin: 0 0 0 70px;
+}
+.img-nav{
+    width: 281px;
+    height: 468px;
+    border-radius: 7px;
+}

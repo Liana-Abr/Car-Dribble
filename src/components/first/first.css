@@ -1,0 +1,72 @@
+.first-block{
+    float: left;
+    width: 280px;
+    margin: 10px;
+    height: 500px;
+
+    border-radius: 7px;
+}
+.music-player{
+    background-color: #1D1D1D;
+    height: 115px;
+    border-radius: 10px;
+    font-size: 10px;
+
+}
+.img-song{
+    float: left;
+    width: 44px;
+    margin: 10px;
+    border-radius: 5px;
+}
+.song{
+    margin-top:-10px;
+}
+.song-title{
+    font-weight: bold;
+    padding-top: 10px;
+    margin-bottom: -5px;
+}
+.song-authors{
+    color: #BABABA;
+}
+.hr-line-song{
+    width:70%;
+    text-align:left;
+    margin-left:0
+}
+.btn-container {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(3, 89px);
+    grid-template-rows: repeat(3, 114px);
+    margin-top: 25px;
+
+}
+.btn{
+    border-radius: 7px;
+    background-color: #222222;
+    border: none;
+    padding-top: 10px;
+}
+.player-btn{
+    background-color: #292929;
+    border: none;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    color: white;
+    cursor: pointer;
+    margin: 10px 0 0 15px;
+}
+.icon{
+    color: white;
+    width: 25px;
+    height: 25px;
+
+}
+.icon-text{
+    color: #BABABA;
+    font-size: 10px;
+}
+
